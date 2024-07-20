@@ -1,0 +1,4 @@
+Se define la función plot_trajectory, que grafica la trayectoria de los métodos iterativos y la solución final. 
+La función imprime la forma de cada elemento en la trayectoria, filtra los vectores de trayectoria para asegurarse de que sean de dos dimensiones, y luego grafica estos vectores junto con la solución final.
+
+Se define dos sistemas de ecuaciones diferentes, A1 y b1, y A2 y b2, con una matriz de coeficientes y un vector de términos constantes para cada sistema. Para el primer sistema (A1 y b1), se aplican los métodos de Gauss-Jacobi y Gauss-Seidel, se imprimen las soluciones y se grafican las trayectorias correspondientes. Lo mismo se hace para el segundo sistema (A2 y b2), aplicando ambos métodos, imprimiendo las soluciones y graficando las trayectorias.
